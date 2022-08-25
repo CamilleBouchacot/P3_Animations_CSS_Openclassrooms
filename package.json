@@ -1,0 +1,9 @@
+"name",{
+  "name": "name",
+  "description": "npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.",
+  "authors": "npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.",
+  "version": "sass@1.54.4",
+  "main": "index.html",
+  "scripts":"css""/css/styles.css "
+ "pakage.json",}
+

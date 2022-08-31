@@ -1,0 +1,87 @@
+/*VERSION TABLETTE*/
+
+
+/*@media (max-width: 991px) {
+    .titre-restau {
+        font-family: "Shrikhand", sans-serif;
+        font-size: 28px;
+        position: relative;
+        top: 30px;
+    }
+}*/
+
+
+main {
+
+
+    overflow-x: hidden;
+}
+
+.contenu {
+
+    justify-content: center;
+
+}
+
+
+@media (max-width: 991px) {
+
+    .home,
+    .menu {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0px;
+    }
+}
+
+.justify-center {
+
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+
+.div-heart1 {
+
+    position: relative;
+    left: 300px;
+    bottom: 95px;
+
+}
+
+
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+
+
+
+
+.bloc img {
+    border-radius: 20px 20px 0 0;
+    height: 150px;
+
+}
+
+.bloc {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.4s;
+    border-radius: 20px;
+    margin: 10px;
+    height: 250px;
+    width: 100%;
+}
+
+
+
+.prix {
+    position: relative;
+    bottom: 40px;
+    position: relative;
+    right: 25px;
+}

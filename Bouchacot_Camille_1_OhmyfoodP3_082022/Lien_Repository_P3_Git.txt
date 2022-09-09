@@ -1,1 +1,1 @@
-git@github.com:camillebouchacot/P3_Animations_CSS_Openclassrooms.git
+https://github.com/camillebouchacot/P3_Animations_CSS_Openclassrooms.git

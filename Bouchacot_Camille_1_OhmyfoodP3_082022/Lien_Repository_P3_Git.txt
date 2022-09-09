@@ -1,1 +1,1 @@
-https://github.com/camillebouchacot/camillebouchacot-Openclassrooms_Formation_developpeur_web_javascript-P3.git
+git@github.com:camillebouchacot/P3_Animations_CSS_Openclassrooms.git
